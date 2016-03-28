@@ -3,9 +3,13 @@
   "version": "0.0.1",
   "description": "Parse header to display ip address,language and software used",
   "main": "server.js",
+  "engines": {
+    "node": "4.4.0"
+  },
   "repository": "https://github.com/jess901108/headerparser.git",
   "author": "Mengjie Yu <jess901108@gmail.com>",
   "dependencies": {
     "express": "~3.2.6"
-  }
+  },
+  "license": "MIT"
 }
