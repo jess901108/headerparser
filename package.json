@@ -1,0 +1,11 @@
+{
+  "name": "Header-Parser",
+  "version": "0.0.1",
+  "description": "Parse header to display ip address,language and software used",
+  "main": "server.js",
+  "repository": "https://github.com/jess901108/headerparser.git",
+  "author": "Mengjie Yu <jess901108@gmail.com>",
+  "dependencies": {
+    "express": "~3.2.6"
+  }
+}
